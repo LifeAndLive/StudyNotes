@@ -187,3 +187,13 @@ https://github.com/yujiangshui/A-Programmers-Guide-to-English
 写作技能与沟通能力
 
 
+ssh-keygen -t rsa -C "xjx10102020@163.com"
+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
+
+步骤一：安装git，并在本地新建一个文件夹作为存放项目的目录
+步骤二：打开文件夹，右键git brash，然后执行git init指令
+步骤三：配置ssh：打开cmd，执行ssh-keygen -t rsa -C "xjx10102020@163.com"指令，获取ssh，并将ssh配置到github上
+步骤四：cmd中执行ssh -T git@github.com，出现hi，***字样即为配置成功。
+步骤五：执行git clone ssh将远程仓库下载到本地
+步骤六：输入git remote add origin https://自己的仓库url地址将本地的仓库关联到github上
+步骤七：随后就是git add，git commit ， git push
