@@ -188,7 +188,6 @@ https://github.com/yujiangshui/A-Programmers-Guide-to-English
 
 
 ssh-keygen -t rsa -C "xjx10102020@163.com"
-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
 
 步骤一：安装git，并在本地新建一个文件夹作为存放项目的目录
 步骤二：打开文件夹，右键git brash，然后执行git init指令
