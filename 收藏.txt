@@ -176,7 +176,7 @@ https://github.com/Arbonkeep/Computer-Operating-System
 组成原理
 技术框架：Spring
 版本管理：git
-构建工具：Gradle，
+构建工具：Gradle，Maven
 单元测试
 https://github.com/simplezhli/AndroidUT
 https://github.com/EthanCo/AndroidTesting
